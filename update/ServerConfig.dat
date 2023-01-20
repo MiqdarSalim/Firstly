@@ -1,0 +1,7 @@
+[LoginServer]
+ServerNumber = 1
+Server0 = 139.99.115.31
+
+[PatchServer]
+ServerNumber = 1
+Server0 = www.unknownrf.my.id
