@@ -1,6 +1,6 @@
 [LoginServer]
 ServerNumber = 1
-Server0 = 139.99.115.31
+Server0 = 4.193.51.116
 
 [PatchServer]
 ServerNumber = 1
