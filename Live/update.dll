@@ -1,0 +1,8 @@
+[Update]
+NewVersion=717
+UpdateFileNumber=2
+UpdateFile1=update/ServerConfig.dat
+UpdateFile2=download/PatchInfo.z
+
+ServerNumber=1
+Server1=https://127.0.0.1/
